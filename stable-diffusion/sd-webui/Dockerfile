@@ -1,0 +1,1 @@
+from nvidia/cuda:12.0.1-base-ubuntu18.04 as base
